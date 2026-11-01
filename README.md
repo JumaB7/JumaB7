@@ -1,5 +1,9 @@
 # Hi, I'm Jumari 👋
 
+**Please note:** These are personal projects that I have developed in my own time.
+
+**For recruiters:** I’m unable to share professional work samples, as I’m not the sole owner of those repositories. Sharing them would breach confidentiality and my professional obligations. Thank you for understanding.
+
 ### Full-Stack Software Engineer | .NET | Angular | AI
 
 I'm a software engineer with a Bachelor's degree in Computer and Electronic Engineering and 4 years of professional experience building full-stack web applications.
