@@ -57,5 +57,5 @@ An interactive analytics dashboard demonstrating financial KPIs, data visualizat
 
 - Portfolio: [Your portfolio URL]
 - LinkedIn: [Your LinkedIn URL]
-- Email: [Your email]
+- Email: jumablignaut@gmail.com
 
